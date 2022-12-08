@@ -24,6 +24,6 @@ cookieNames(cookies,newCookie,function myCallBack(cookie){
   //   cookies.push(newCookie)
     
   // },2000)
-
+ 
 
 // Progression 5: calling function
